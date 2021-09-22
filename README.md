@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.com/martinvidec/survia-core.svg?branch=main)](https://travis-ci.com/martinvidec/survia-core)
 
-[![Build](https://github.com/martinvidec/survia-core/actions/workflows/build.yml/badge.svg)](https://github.com/martinvidec/survia-core/actions/workflows/build.yml)
+[![Sonarcloud-Build](https://github.com/martinvidec/survia-core/actions/workflows/build.yml/badge.svg)](https://github.com/martinvidec/survia-core/actions/workflows/build.yml)
 
 Survia Core Library
 
